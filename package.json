@@ -1,0 +1,9 @@
+{
+  "name": "WEB-BOOSTRAP4",
+  "version": "1.0.0",
+  "description": "Simple landing page with boostrap 4",
+  "main": "index.js",
+  "repository": "https://github.com/potier97/webBoostrap4.git",
+  "author": "Nicolás Potier <nicolaspotier97@gmail.com>",
+  "license": "MIT"
+}
